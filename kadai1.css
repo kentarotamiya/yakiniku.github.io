@@ -1,0 +1,51 @@
+@charset "UTF-8";
+h1 {
+    color: #000000;
+    background-color: #FFCECF;
+}
+img{
+	width:100%;
+	height: 50%
+}
+.rogo{
+	width:25%;
+	height:10%;
+}
+.home{
+	width: 100%;
+}
+.mise{
+	background-color:coral;
+	width: 30%;
+	float:left;
+}
+.video{
+	float:left;
+	width: 70%
+}
+.meat{
+	float:left;
+	width: 49%
+}
+.map{
+	float:left;
+	width: 49%;
+	height:100%
+}
+#setubi{
+	float:left;
+	width: 58%
+}
+#sitirin{
+	float:left;
+	width: 40%
+}
+.wrap{
+	background-color:coral;
+	display: flex;
+    justify-content: space-between;
+}
+body {
+	line-height: 2.0;
+    background-color: #A22429;
+}
